@@ -1,1 +1,1 @@
-mongod.exe --dbpath /Users/Elias/mongo-data --inicar mongobd
+mongod.exe --dbpath /Users/Elias/mongo-data --inicar mongob
